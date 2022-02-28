@@ -15,16 +15,19 @@ function Main(){
     }, [])
 
 
+
     const toPublic = () => {
+        let idPluss = dataPost.length + 1
         
-        const publicObj = {
+        axios.post("http://localhost:5000/posts", {
+            id: idPluss,
             username: "User001",
             photo: "//external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmir-s3-cdn-cf.behance.net%2Fproject_modules%2Fmax_1200%2Fd4ad40103067131.5f450dd53ccd1.png&f=1&nofb=1",
             post: `${addPost}`,
             likes: 0
-        }
-        dataPost.push(publicObj)
-        setAddPost("")
+        })
+            .then(response => alert(JSON.stringify(response)))
+            .catch(err => console.log(err))
     }
 
     return (

@@ -1,0 +1,32 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "username": "Ana Vitoria",
+      "photo": "//external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fnoticiastu.com%2Fwp-content%2Fuploads%2F2018%2F08%2FPoses-de-Fotos-de-Perfil-1.jpg&f=1&nofb=1",
+      "post": "Fechei contrato de aluguel no quinto andar e estou com medo da situação que estamos economicamente... Morar sozinha nesse momento está sendo questionável.",
+      "likes": 10
+    },
+    {
+      "id": 2,
+      "username": "Lucas Amaral",
+      "photo": "//external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fimages6.fanpop.com%2Fimage%2Fphotos%2F40200000%2FTrending-Facebook-Profile-Pictures-Of-Boys-emo-boys-40268071-1537-2431.jpg&f=1&nofb=1",
+      "post": "O amor não é um sentimento afetuoso, mas um desejo constante pelo bem final da pessoa amada, tanto quanto possível.",
+      "likes": 3
+    },
+    {
+      "id": 3,
+      "username": "User001",
+      "photo": "//external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmir-s3-cdn-cf.behance.net%2Fproject_modules%2Fmax_1200%2Fd4ad40103067131.5f450dd53ccd1.png&f=1&nofb=1",
+      "post": "This is my first twiiter in my simple social network!",
+      "likes": 0
+    },
+    {
+      "id": 4,
+      "username": "User001",
+      "photo": "//external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmir-s3-cdn-cf.behance.net%2Fproject_modules%2Fmax_1200%2Fd4ad40103067131.5f450dd53ccd1.png&f=1&nofb=1",
+      "post": "O que vamos fazer hoje?",
+      "likes": 0
+    }
+  ]
+}
